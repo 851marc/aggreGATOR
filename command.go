@@ -4,11 +4,12 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"gator/internal/database"
+
 	"strconv"
 	"strings"
 	"time"
 
+	"github.com/851marc/aggreGATOR/internal/database"
 	"github.com/google/uuid"
 )
 

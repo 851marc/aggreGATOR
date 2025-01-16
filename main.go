@@ -2,11 +2,11 @@ package main
 
 import (
 	"database/sql"
-	"gator/internal/config"
-	"gator/internal/database"
 	"log"
 	"os"
 
+	"github.com/851marc/aggreGATOR/internal/config"
+	"github.com/851marc/aggreGATOR/internal/database"
 	_ "github.com/lib/pq"
 )
 

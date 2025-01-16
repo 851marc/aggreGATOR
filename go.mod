@@ -1,4 +1,4 @@
-module gator
+module github.com/851marc/aggreGATOR
 
 go 1.23.3
 
